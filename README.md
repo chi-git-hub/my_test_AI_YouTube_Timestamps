@@ -119,7 +119,3 @@ Join the **Builder’s Console Log** community on Skool:
 ---
 
 ## testing 123
-
-## asdfasdf
-## testing
-## testing123
